@@ -127,7 +127,7 @@ dot -Tpng /tmp/pipeline/*.READY_PAUSED.dot -o ~/Desktop/pipeline-graph.png
 # convert to PDF
 dot -Tpdf /tmp/pipeline/*.READY_PAUSED.dot -o ~/Desktop/pipeline-graph.pdf
 ```
-(Pipeline_graph.png)
+![](Pipeline_graph.png)
 
 ## Video
 
