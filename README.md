@@ -1624,6 +1624,14 @@ Failed to connect. (Generic error)
 ```
 - Indicate unable to connect rtps server, incorrect ip or not reacheable try ping to check connection
 
+## Custom Gstreamer plugins
+
+### Gst-perf 
+- A GStreamer element to measure framerate, CPU usage
+![](plugins\gst-perf\README.md)
+
+
+
 
 
 
