@@ -1627,8 +1627,8 @@ Failed to connect. (Generic error)
 ## Custom Gstreamer plugins
 
 ### Gst-perf 
-- A GStreamer element to measure framerate, CPU usage
-![](plugins\gst-perf\README.md)
+- A GStreamer element to measure framerate, CPU usage [gst-perf](plugins/gst-perf/README.md)
+
 
 
 
